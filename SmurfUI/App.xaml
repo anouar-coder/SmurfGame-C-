@@ -1,0 +1,22 @@
+﻿<Application x:Class="SmurfUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:converters="clr-namespace:SmurfUI.Converters">
+    <!--
+        PAS de StartupUri ici.
+        La fenêtre est créée manuellement dans App.xaml.cs → OnStartup().
+        Avoir les deux (StartupUri + new MainWindow() dans OnStartup)
+        génère le code de MainWindow deux fois → erreur _contentLoaded dupliqué.
+    -->
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/GameStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <!-- Convertisseurs déclarés UNE SEULE FOIS ici, disponibles partout -->
+            <converters:ImageConverter         x:Key="ImageConverter"/>
+            <converters:HealthToColorConverter x:Key="HealthToColorConverter"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

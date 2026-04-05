@@ -1,0 +1,17 @@
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\bin\Debug\net10.0\SmurfDAL.deps.json
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\bin\Debug\net10.0\SmurfDAL.runtimeconfig.json
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\bin\Debug\net10.0\SmurfDAL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\bin\Debug\net10.0\SmurfDAL.pdb
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\bin\Debug\net10.0\SmurfBL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\bin\Debug\net10.0\SmurfBL.pdb
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.csproj.AssemblyReference.cache
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.AssemblyInfoInputs.cache
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.AssemblyInfo.cs
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.csproj.Up2Date
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\refint\SmurfDAL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.pdb
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\SmurfDAL.genruntimeconfig.cache
+C:\Users\vboxuser\source\repos\Smurf\SmurfDAL\obj\Debug\net10.0\ref\SmurfDAL.dll

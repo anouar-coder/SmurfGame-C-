@@ -1,0 +1,11 @@
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\bin\Debug\net10.0\SmurfBL.deps.json
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\bin\Debug\net10.0\SmurfBL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\bin\Debug\net10.0\SmurfBL.pdb
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\SmurfBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\SmurfBL.AssemblyInfoInputs.cache
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\SmurfBL.AssemblyInfo.cs
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\SmurfBL.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\SmurfBL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\refint\SmurfBL.dll
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\SmurfBL.pdb
+C:\Users\vboxuser\source\repos\Smurf\SmurfBL\obj\Debug\net10.0\ref\SmurfBL.dll
